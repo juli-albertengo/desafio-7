@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Escuadra", 
+        "price": 200
+    }, 
+    {
+        "name": "Calculadora", 
+        "price": 1000
+    }, 
+    {
+        "name": "Regla", 
+        "price": 50
+    },
+    {
+        "name": "Lapicera", 
+        "price": 20
+    }
+]
